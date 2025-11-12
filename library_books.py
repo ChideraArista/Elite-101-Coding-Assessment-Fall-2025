@@ -70,5 +70,14 @@ library_books = [
         "available": False,
         "due_date": "2025-11-12",
         "checkouts": 3
+    },
+    {
+        "id": "B9",
+        "title": "Amari and the Night Brothers",
+        "author": "B. B. Alston",
+        "genre": "Fantasy",
+        "available": True,
+        "due_date": None,
+        "checkouts": 1000 # What can I say, it's a great book!!
     }
 ]
